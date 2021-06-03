@@ -5,16 +5,16 @@ Segunda parte do bootcamp <strong>Dio+Santander</strong> etapa Front-end, conduz
 
 # Conhecimentos Adquiridos/reforçados
 
-# HTML => (+/-)
-# CSS => (+/-)
-# Framework Angular => (+)
-# GitHub => (+/-)
+<li> HTML => (+/-)</li>
+<li> CSS => (+/-)</li>
+<li> Framework Angular => (+)</li>
+<li> GitHub => (+/-)</li>
 
 # Agradecimento Especial
 <pre>
-<strong>Digital Innovation One</strong> pelo processo <em>Hands On</em> durante a prática.
+<strong>Digital Innovation One</strong> pelo processo <em><b>Hands On</b></em> durante a prática.
 
-<strong>Banco Santander</strong> pelo apoio e parceria no bootcamp estimulando os <b>Devs</b> a porem a "mão na massa" e de quebra sonhar com uma carreira profissional numa grande instituição.
+<strong>Banco Santander</strong> pelo apoio e parceria no bootcamp estimulando os <b>Devs</b><br> a colocarem a "mão na massa" e de quebra sonhar com uma carreira profissional<br> numa grande instituição.
 
 </pre>
 
