@@ -1,7 +1,22 @@
 # Bootcamp - Digital Innovation/Banco Santander-Version Front-end.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 Segunda parte do bootcamp <strong>Dio+Santander</strong> etapa Front-end, conduzido por <strong>@Guilherme Revoredo</strong>.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Conhecimentos Adquiridos/reforçados
+
+# HTML => (+/-)
+# CSS => (+/-)
+# Framework Angular => (+)
+# GitHub => (+/-)
+
+# Agradecimento Especial
+<pre>
+<strong>Digital Innovation One</strong> pelo processo <em>Hands On</em> durante a prática.
+
+<strong>Banco Santander</strong> pelo apoio e parceria no bootcamp estimulando os <b>Devs</b> a porem a "mão na massa" e de quebra sonhar com uma carreira profissional numa grande instituição.
+
+</pre>
+
+
+
