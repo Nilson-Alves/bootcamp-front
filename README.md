@@ -12,9 +12,9 @@ Segunda parte do bootcamp <strong>Dio+Santander</strong> etapa Front-end, conduz
 
 # Agradecimento Especial
 <pre>
-<strong>Digital Innovation One</strong> pelo processo <em><b>Hands On</b></em> durante a prática.
+<li><strong>Digital Innovation One</strong></li> pelo processo <em><b>Hands On</b></em> durante a prática.
 
-<strong>Banco Santander</strong> pelo apoio e parceria no bootcamp estimulando os <b>Devs</b><br> a colocarem a "mão na massa" e de quebra sonhar com uma carreira profissional<br> numa grande instituição.
+<li><strong>Banco Santander</strong></li> pelo apoio e parceria no bootcamp estimulando os <b>Devs</b> a colocarem a "mão na massa"<br> e de quebra sonhar com uma carreira profissional numa grande instituição.
 
 </pre>
 
